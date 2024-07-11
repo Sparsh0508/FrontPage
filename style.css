@@ -1,0 +1,31 @@
+body{
+    position: relative;
+    background-image: url("flower.avif");
+    position: relative;
+    background-size: cover;
+    display:flex;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    background-color:rgb(224, 204, 207);
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;   
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    opacity: 0.8;
+}
+.content h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+.content p{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+
+}
